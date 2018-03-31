@@ -1,12 +1,12 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 周禮傳
-#+DATE: 2018-03-31 09:03:03.680888
+#+DATE: 2018-03-31 09:03:03.997715
 #+PROPERTY: ID KR1d0015
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 周禮傳__周禮翼傳
 <pb:KR1d0015_WYG_016-1a>¶
-即紂字　誚譙踐桴泭㣛㑹&KR0247;焠淬忻欣訢&KR3554;碎¶
+即紂字　誚譙踐桴泭㣛㑹衒焠淬忻欣訢&KR3554;碎¶
 誕這韵韻衟道遦慣勤慬憔悴顦顇寂寞嗼¶
 &KR3435;遷徙義竝同¶
 　周禮翼傳卷二¶
